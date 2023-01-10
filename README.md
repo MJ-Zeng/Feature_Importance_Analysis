@@ -4,6 +4,7 @@
 
 
 # Result
+'''
 . Train R2_Score: 0.9778 Test R2_Score: 0.8546
 . Train RMSE: 0.0404     Test MSE: 0.1012
 . Train MAE: 0.0247      Test MAE: 0.0665
@@ -49,6 +50,7 @@ the top of 30 features is    Features  Importance
 23      107    0.005986
 
 the sum of importance is: 0.8312035260103225
+'''
 
 
 
