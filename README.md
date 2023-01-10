@@ -1,11 +1,7 @@
 # Analysis of random forest chemical reaction
 
 ## The TOP OF 30 Features 
-
-![fea_rank](https://user-images.githubusercontent.com/38970840/211533509-d7d60e7e-7ef4-4aff-8c19-209cef3d616e.jpg)
-
-
-
+![fea_rank](https://user-images.githubusercontent.com/38970840/211536557-08327e2d-be1d-4d0f-9d71-8b46e8389849.jpg)
 
 ## Result
 ````
