@@ -66,4 +66,6 @@ the sum of importance is: 0.8312035260103225
 - conda create -n  env python = 3.7
 - conda install scikit-learn
 - conda install -c conda-forge rdkit
+- pip install seaborn
+
 
