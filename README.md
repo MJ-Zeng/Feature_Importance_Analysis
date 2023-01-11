@@ -1,7 +1,13 @@
 # Analysis of random forest chemical reaction
 
+
 ## The TOP OF 30 Features 
 ![fea_rank](https://user-images.githubusercontent.com/38970840/211536557-08327e2d-be1d-4d0f-9d71-8b46e8389849.jpg)
+
+## Run
+`python main.py`
+- The results in the result folder
+
 
 ## Result
 ````
